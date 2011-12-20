@@ -1,0 +1,1 @@
+<?php echo $this->element($child['content']['view'], array('data' => $child['content']['viewData']), array('plugin' => $child['content']['plugin'])); ?>
